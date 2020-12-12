@@ -8,5 +8,7 @@ linkedin: maximilian-barz-5506781b5
 cves:
     - CVE-2020-11107
     - CVE-2020-15906
+    - CVE-2020-29254
+    - CVE-2020-29669
 ---
 German IT-Security Researcher, OSCP
